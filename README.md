@@ -10,7 +10,7 @@ A web-based application that uses **Machine Learning** and **URL feature extract
 
 ## 📸 Demo
 
-<img src="https://i.imgur.com/VGmQj0h.png" alt="App Screenshot" width="600"/>
+<img src="https://i.imgur.com/abc1234.png" alt="App Screenshot" width="600"/>
 
 ---
 
