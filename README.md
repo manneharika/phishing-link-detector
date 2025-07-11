@@ -10,7 +10,17 @@ A web-based application that uses **Machine Learning** and **URL feature extract
 
 ## 📸 Demo
 
-<img src="https://i.imgur.com/abc1234.png" alt="App Screenshot" width="600"/>
+### 🔍 User enters a URL
+
+<img src="https://i.imgur.com/abc1234.png" alt="Enter URL Screenshot" width="600"/>
+
+### ✅ Legitimate Link Detected
+
+<img src="https://i.imgur.com/xyz5678.png" alt="Legitimate Output Screenshot" width="600"/>
+
+### ⚠️ Phishing Link Detected
+
+<img src="https://i.imgur.com/fake123.png" alt="Phishing Output Screenshot" width="600"/>
 
 ---
 
