@@ -10,17 +10,18 @@ A web-based application that uses **Machine Learning** and **URL feature extract
 
 ## 📸 Demo
 
-### 🔍 User enters a URL
+## 💻 Demo
 
-<img src="https://i.imgur.com/abc1234.png" alt="Enter URL Screenshot" width="600"/>
+Here are some screenshots showing the working of the Phishing Link Detector web application:
 
-### ✅ Legitimate Link Detected
+### 🏠 Homepage
+![Homepage](frontend/public/images/screenshot-home.png)
 
-<img src="https://i.imgur.com/xyz5678.png" alt="Legitimate Output Screenshot" width="600"/>
+### ✅ Legitimate URL
+![Legitimate](frontend/public/images/screenshot-legit.png)
 
-### ⚠️ Phishing Link Detected
-
-<img src="https://i.imgur.com/fake123.png" alt="Phishing Output Screenshot" width="600"/>
+### ⚠️ Phishing URL Detected
+![Phishing](frontend/public/images/screenshot-phishing.png)
 
 ---
 
