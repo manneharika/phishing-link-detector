@@ -43,5 +43,3 @@ Here are some screenshots showing the working of the Phishing Link Detector web 
 
 ---
 
-## 📁 Folder Structure
-
