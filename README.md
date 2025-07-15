@@ -15,13 +15,13 @@ A web-based application that uses **Machine Learning** and **URL feature extract
 Here are some screenshots showing the working of the Phishing Link Detector web application:
 
 ### 🏠 Homepage
-![Homepage](frontend/public/images/screenshot-home.png)
+![Homepage](https://github.com/manneharika/phishing-link-detector/blob/main/home.png?raw=true)
 
 ### ✅ Legitimate URL
-![Legitimate](frontend/public/images/screenshot-legit.png)
+![Legitimate](https://github.com/manneharika/phishing-link-detector/blob/main/safe.png?raw=true)
 
 ### ⚠️ Phishing URL Detected
-![Phishing](frontend/public/images/screenshot-phishing.png)
+![Phishing](https://github.com/manneharika/phishing-link-detector/blob/main/phishing.png?raw=true)
 
 ---
 
