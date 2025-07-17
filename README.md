@@ -10,8 +10,6 @@ A web-based application that uses **Machine Learning** and **URL feature extract
 
 ## 📸 Demo
 
-## 💻 Demo
-
 Here are some screenshots showing the working of the Phishing Link Detector web application:
 
 ### 🏠 Homepage
